@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h2>React Blog Starter</h2>
+          <h2>React Blog Starter..</h2>
         </div>
       </div>
     );
