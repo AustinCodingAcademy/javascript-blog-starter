@@ -122,4 +122,3 @@ src
 
 2. With [glamor](https://github.com/threepointone/glamor).
 - This is an awesome way to write CSS-in-JS. More on this soon!
-# javascript-blog-starter
