@@ -1,3 +1,4 @@
+Maggie Rosenbusch
 # React Gist Blog Starter
 
 For your final project, you'll be using GitHub's public Gist API to make a simple, read-only "blog".
