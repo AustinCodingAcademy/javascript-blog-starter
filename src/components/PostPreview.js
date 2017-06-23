@@ -4,6 +4,7 @@ import React from "react";
 function PostPreview(props) {
   return (
     <div>
+      {props.post.description}
     </div>
   );
 }

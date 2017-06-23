@@ -1,6 +1,6 @@
-import React from 'react';
-import props from './App.js'
+import React from "react";
 
+// eslint-disable-next-line
 function Header(props) {
   return (
     <div>

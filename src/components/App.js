@@ -35,7 +35,7 @@ class App extends Component {
       <div className="App">
 
         <div className="App-header">
-          <img src={this.state.apiPicture} className="heroimg" alt="picture" />
+          <img src={this.state.apiPicture} className="heroimg" alt="me" />
           <div className="Name">
             <Header/>
           </div>
