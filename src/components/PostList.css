@@ -1,0 +1,13 @@
+.eachpost {
+  margin:auto;
+  max-width: 1000px;
+}
+
+.profilePic {
+  max-width: 100px;
+  border-radius: 50px;
+}
+
+a {
+  color: #73E80C;
+}
